@@ -10,8 +10,8 @@ def display_header():
     """
     Display the animated ASCII art header with the custom logo.
     """
-    # Generate ASCII art for your name and the tool branding
-    logo_art = text2art("k0ur1i Tool", "block")  # Logo with your name and "Tool"
+    # Generate ASCII art for my name and the tool branding
+    logo_art = text2art("k0ur1i Tool", "block")  # Logo with my name and "Tool"
     subtitle_art = text2art("WordPress Brute Force", "standard")  # Subtitle in a smaller font
 
     # Display the logo and subtitle with animated effect
